@@ -12,6 +12,5 @@ function FizzBuzz(num){
     {
       console.log('Buzz');
     }
-    console.log(i);
   }
 }
